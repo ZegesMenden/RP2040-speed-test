@@ -1,0 +1,113 @@
+results with default clock:
+
+multiplication greater than zero test:
+output (should be 271826.824): 2.721911
+time_taken: 0.061083
+iterations_per_second: 1637116.750000
+
+multiplication less than zero test:
+output (should be 36787.76): 36738.292969
+time_taken: 0.064832
+iterations_per_second: 1542448.125000
+
+division greater than zero test:
+output (should be 4.542): 4.534722
+time_taken: 0.079036
+iterations_per_second: 1265246.250000
+
+division less than zero test:
+output (should be 149182.589): 2.721940
+time_taken: 0.077674
+iterations_per_second: 1287432.125000
+
+addition greater than zero test:
+output (should be 100500.0): 100781.250000
+time_taken: 0.074561
+iterations_per_second: 1341183.750000
+
+--------------------------------------------------------------------------------
+
+results with 150MHz overclock:
+
+multiplication greater than zero test:
+output (should be 271826.824): 2.721911
+time_taken: 0.050809
+iterations_per_second: 1637116.250000
+
+multiplication less than zero test:
+output (should be 36787.76): 36738.292969
+time_taken: 0.053937
+iterations_per_second: 1854014.875000
+
+division greater than zero test:
+output (should be 4.542): 4.534722
+time_taken: 0.065734
+iterations_per_second: 1521282.750000
+
+division less than zero test:
+output (should be 149182.589): 2.721940
+time_taken: 0.064624
+iterations_per_second: 1547412.750000
+
+addition greater than zero test:
+output (should be 100500.0): 100781.250000
+time_taken: 0.062014
+iterations_per_second: 1612539.125000
+
+--------------------------------------------------------------------------------
+
+results with 200MHz overclock:
+
+multiplication greater than zero test:
+output (should be 271826.824): 272192.406250
+time_taken: 0.038037
+iterations_per_second: 2629019.250000
+
+multiplication less than zero test:
+output (should be 36787.76): 36738.292969
+time_taken: 0.040372
+iterations_per_second: 2476964.250000
+
+division greater than zero test:
+output (should be 4.542): 4.534722
+time_taken: 0.049173
+iterations_per_second: 2033636.250000
+
+division less than zero test:
+output (should be 149182.589): 272195.156250
+time_taken: 0.048358
+iterations_per_second: 2067910.125000
+
+addition greater than zero test:
+output (should be 100500.0): 100781.250000
+time_taken: 0.046400
+iterations_per_second: 2155172.500000
+
+--------------------------------------------------------------------------------
+
+results with 250MHz overclock:
+
+multiplication greater than zero test:
+output (should be 271826.824): 272192.406250
+time_taken: 0.030377
+iterations_per_second: 3291964.250000
+
+multiplication less than zero test:
+output (should be 36787.76): 36738.292969
+time_taken: 0.032231
+iterations_per_second: 3102603.250000
+
+division greater than zero test:
+output (should be 4.542): 4.534722
+time_taken: 0.039278
+iterations_per_second: 2545954.500000
+
+division less than zero test:
+output (should be 149182.589): 272195.156250
+time_taken: 0.038632
+iterations_per_second: 2588527.500000
+
+addition greater than zero test:
+output (should be 100500.0): 100781.250000
+time_taken: 0.037070
+iterations_per_second: 2697599.250000
